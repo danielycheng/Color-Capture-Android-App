@@ -7,15 +7,12 @@ List of key features:
 - Pixel analysis on taken photos on pixels selected by touch
 - LED color RGB values are sent as POST JSON to any IP address
 - Tweet “captured” RGB values to the @LEDColorCapture Twitter page
-Basic instructions on usage:
+
+##Basic instructions on usage:
 Upon opening the app, user can set the LED color to red, green, or blue using the clearly labeled buttons. If those buttons do not work, user should check the url and change if necessary. User can also select the “Color Capture” button to open to a new page where the color capture function is located.
 User should select the “Open Camera” button to take a picture. After taking the photo and confirming via the checkmark, user can touch anywhere on the displayed photo to load a color. Then user can send the “captured” color to the LED strip or tweet the color “captured” to the @LEDColorCapture Twitter page.
 
-##How you use the lights:
-- We use lights to show the captured color that is sent through POST JSON.
-## How you use the sensors:
-- We use the camera to take pictures for pixel analysis.
-- What your third party web service is and how you use it:
-- We used twitter with a Java library for the Twitter API called Twitter4J.
-##Any special info we need to run the app (username/passwords, etc.):
-No, but you may find our twitter page at https://twitter.com/LEDColorCapture
+##Fun Tidbits
+- I used lights to show the captured color that is sent through POST JSON.
+- I used the camera to take pictures for pixel analysis.
+- I used Twitter with a Java library for the Twitter API called Twitter4J. You may find our twitter page at https://twitter.com/LEDColorCapture.
