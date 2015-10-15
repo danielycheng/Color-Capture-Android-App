@@ -15,4 +15,4 @@ User should select the “Open Camera” button to take a picture. After taking 
 ##Fun Tidbits
 - I used lights to show the captured color that is sent through POST JSON.
 - I used the camera to take pictures for pixel analysis.
-- I used Twitter with a Java library for the Twitter API called Twitter4J. You may find our twitter page at https://twitter.com/LEDColorCapture.
+- I used Twitter with a Java library for the Twitter API called Twitter4J and OAuth. You may find our twitter page at https://twitter.com/LEDColorCapture.
